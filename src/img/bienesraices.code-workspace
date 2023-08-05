@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../WebJavaScript/jason"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bienesraices"
+	}
+}
